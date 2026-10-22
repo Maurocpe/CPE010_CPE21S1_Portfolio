@@ -1,5 +1,13 @@
-# CPE010_CPE21S1_Portfolio
-This Portfolio includes all the Lab compilation in CPE010 Data Structures and Algorithms of Mauro, Ryan Lewis B. of CPE21S1 with our instructor Engr. Jimlord Quejado
+# CPE010_CPE21S1_Portfolio_MAURO
+
+# Student Information
+- Name: Mauro, Ryan Lewis B.
+- Program: BSCpE
+- Section: CpE21S1
+
+# Description
+- This Portfolio includes all the Lab compilation in CPE010 Data Structures and Algorithms of Mauro, Ryan Lewis B. of CPE21S1 with our instructor Engr. Jimlord Quejado
+
 
 **COURSE TOPICS** <br> <br>
 **PRELIM PERIOD** <br>
@@ -27,3 +35,34 @@ I. Tree ADT; General and Binary Search Trees; AVL Tree; Traversal Algorithms; So
 II. Graph ADT; Adjacency Matrix and Adjacency List; Breadth-First Search; Depth-First Search; Solving Problems using Graphs.
 
 III. Basic Algorithm Analysis; Theoretical and Experimental Methods in Measuring Time; Time Complexity Classes.
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
+# Contents 
+- PRELIMS
+- MIDTERMS
+- FINALS
+<br>
+<br>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+
+
+
+
